@@ -1,0 +1,22 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whid-bb/testing-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whid-bb/testing-jest/issues"
+  },
+  "homepage": "https://github.com/whid-bb/testing-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}

@@ -1,1 +1,1 @@
-# testing-jest
+# Learning JS TDD with Jest
